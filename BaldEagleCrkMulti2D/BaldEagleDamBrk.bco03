@@ -1,0 +1,70 @@
+ 
+                                              HEC-RAS - River Analysis System
+ 
+ 
+Project File:  C:\Users\panosotg\Work\RAS_Projects\2D Unsteady Flow Hydraulics\BaldEagleCrkMulti2D\BaldEagleDamBrk.prj
+ 
+Project Name:  Bald Eagle Creek Example Dam Break Study
+ 
+ 
+Plan Name:     Single 2D Area - Internal Dam Structure
+ 
+Short ID:      Single 2D
+ 
+
+Starting Time:   01Jan1999 1200
+
+Ending Time:     04Jan1999 1200
+
+
+                ################################################
+                #                                              #
+                #                                              #
+                #       1D and 2D Unsteady Flow Module         #
+                #                                              #
+                #                                              #
+                #          HEC-RAS 6.5 February 2024           #
+                #                                              #
+                #             17APR24 at 11:48:21              #
+                #                                              #
+                ################################################
+                
+ 
+ 
+ 
+
+         US Inflow      DS Outflow       Lat Hydro        SA Hydro     Groundwater      Diversions   Precip Excess
+         *********      **********       *********        ********     ***********      **********   *************
+                                                                                                                                  
+
+    Start 1D Reach  Final 1D Reach   Starting SA's      Final SA's
+    **************  **************   *************      **********
+                                                                  
+
+
+
+                 ***   Volume Accounting for 2D Flow Area in Acre Feet   ***
+
+           2D Area    Starting Vol      Ending Vol      Cum Inflow     Cum Outflow           Error   Percent Error
+           *******    ************      **********      **********     ***********           *****   *************
+ 
+ 
+       BaldEagleCr           1584.          94880.         381177.         287952.           71.43         0.01874
+
+
+
+                 ***   Total Volume Accounting (for the entire model) in Acre Feet   ***
+
+Total Boundary Flux of Water In          381177.
+Total Boundary Flux of Water Out         287952.
+
+Starting Volume                            1584.
+Ending Volume                             94880.
+
+
+                             Error   Percent Error
+                             *****   *************
+                             71.43         0.01866
+
+
+
